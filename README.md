@@ -1,7 +1,7 @@
 # user-registration-admin
 Website for budget created with Flask/Python
 
--html is a template from https://getbootstrap.com/\
+-html is a template from https://getbootstrap.com/
 -Flask-Admin\
 -User is able to:\
   *create an account;\
